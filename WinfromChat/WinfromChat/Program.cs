@@ -16,7 +16,22 @@ namespace WinfromChat
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Application.Run(new LoginForm());
+            //Application.Run(new MainForm());
+            LoginForm loginFm = new LoginForm();
+            loginFm.StartPosition = FormStartPosition.CenterScreen;
+
+
+
+            var result=loginFm.ShowDialog();
+            if (result==DialogResult.OK)
+            {
+                MainForm mainFm = new MainForm();
+                Application.Run(mainFm);
+            }
+            
+
+            
         }
     }
 }

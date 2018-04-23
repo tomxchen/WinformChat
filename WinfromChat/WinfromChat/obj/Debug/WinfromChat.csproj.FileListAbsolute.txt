@@ -1,0 +1,10 @@
+E:\Github\WinformChat\WinfromChat\WinfromChat\bin\Debug\WinfromChat.exe.config
+E:\Github\WinformChat\WinfromChat\WinfromChat\bin\Debug\WinfromChat.exe
+E:\Github\WinformChat\WinfromChat\WinfromChat\bin\Debug\WinfromChat.pdb
+E:\Github\WinformChat\WinfromChat\WinfromChat\obj\Debug\WinfromChat.csprojResolveAssemblyReference.cache
+E:\Github\WinformChat\WinfromChat\WinfromChat\obj\Debug\WinfromChat.Properties.Resources.resources
+E:\Github\WinformChat\WinfromChat\WinfromChat\obj\Debug\WinfromChat.csproj.GenerateResource.Cache
+E:\Github\WinformChat\WinfromChat\WinfromChat\obj\Debug\WinfromChat.exe
+E:\Github\WinformChat\WinfromChat\WinfromChat\obj\Debug\WinfromChat.pdb
+E:\Github\WinformChat\WinfromChat\WinfromChat\obj\Debug\WinfromChat.LoginForm.resources
+E:\Github\WinformChat\WinfromChat\WinfromChat\obj\Debug\WinfromChat.MainForm.resources
